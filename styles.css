@@ -6,13 +6,13 @@
 
   /* Color is the main tone — a confident, warm palette */
   --coral: #f283cd;
-  --coral-soft: #ffd9cf;
+  --coral-soft: #c48dbe;
   --violet: #6c4cff;
   --violet-soft: #ddd5ff;
-  --teal: #14b8a6;
+  --teal: #ea84f5;
   --teal-soft: #c5f0ea;
-  --amber: #ffb020;
-  --amber-soft: #ffe6b3;
+  --amber: #842b98;
+  --amber-soft: #faa4b4;
 
   --accent: var(--coral);
   --radius: 22px;
