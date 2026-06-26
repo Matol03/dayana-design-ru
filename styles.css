@@ -38,7 +38,7 @@ body {
 h1, h2, h3 {
   font-family: "Cormorant Garamond", "Georgia", "Times New Roman", serif;
   font-weight: 600;
-  line-height: 1.05;
+  line-height: 0.9;
   margin: 0;
   letter-spacing: -0.01em;
 }
